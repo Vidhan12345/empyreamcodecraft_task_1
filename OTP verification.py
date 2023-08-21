@@ -1,7 +1,7 @@
 import random
 import smtplib
 
-sender_email='vidhandahatkar@gail.com'
+sender_email='vidhandahatkar@gmail.com'
 Password = 'piirgpanacbaodmm'
 receiver_email=input("Enter the email of receiver: ")
 otp=random.randint(100000, 999999)
